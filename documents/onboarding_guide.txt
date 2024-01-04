@@ -1,0 +1,16 @@
+New Employee Onboarding Guide
+
+Before Day One
+New hires receive a welcome email with login credentials for the HR portal, email account setup instructions, and a checklist of documents to bring on the first day (ID, educational certificates, and bank details for payroll).
+
+First Week
+The first week typically includes an orientation session covering company history, values, and organizational structure. New employees are assigned a buddy from their team to help them settle in and answer day-to-day questions.
+
+IT Setup
+IT will provision a laptop, email account, and access to required internal tools (Slack, Jira, and the HR portal) before or on the employee's start date. Any access issues should be reported to the IT helpdesk immediately.
+
+Probation Period
+All new hires undergo a 3-month probation period. Performance is reviewed at the 6-week and 3-month marks by the direct manager. Confirmation of employment is communicated in writing after successful completion of probation.
+
+Benefits Enrollment
+Employees must complete health insurance enrollment within the first 2 weeks of joining. Details on the company's benefits package are provided during orientation and are also available on the HR portal.
