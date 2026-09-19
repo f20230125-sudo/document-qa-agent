@@ -1,0 +1,16 @@
+Remote Work Policy
+
+Eligibility
+Employees who have completed their probation period (typically 3 months) are eligible to apply for remote work arrangements. Approval depends on role requirements and manager discretion.
+
+Hybrid Schedule
+Employees on a hybrid arrangement are expected to be in the office at least 3 days per week, with Tuesday and Thursday designated as mandatory in-office days for team collaboration.
+
+Fully Remote Roles
+Certain roles, primarily in engineering and customer support, may be approved for fully remote work. Fully remote employees must maintain a stable internet connection and be reachable during core working hours of 10 AM to 4 PM local time.
+
+Equipment
+The company provides a laptop and a one-time home office setup allowance of AED 1,500 for employees approved for remote or hybrid work. Requests for reimbursement must be submitted within 60 days of approval.
+
+Security Requirements
+Remote employees must use company-issued VPN software when accessing internal systems and must not use public, unsecured Wi-Fi networks for work-related tasks involving sensitive data.
