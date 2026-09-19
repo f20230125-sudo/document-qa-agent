@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+vector_store.faiss
+chunks.pkl
+venv/
