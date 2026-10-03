@@ -4,3 +4,4 @@ __pycache__/
 vector_store.faiss
 chunks.pkl
 venv/
+.pytest_cache/
