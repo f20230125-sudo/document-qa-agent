@@ -83,6 +83,18 @@ Health check:
 curl http://localhost:5000/health
 ```
 
+## Tests
+
+```bash
+pip install pytest
+pytest
+```
+
+The tests swap Gemini for a stub client and build a small FAISS index in a
+temporary folder, so they run without an API key and make no network calls.
+They cover chunking, embedding, the saved index, retrieval order, the prompt,
+and the `/ask` and `/health` routes.
+
 ## Notes
 
 - Swap in your own documents by dropping `.txt` files into `documents/`
